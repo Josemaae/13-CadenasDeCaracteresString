@@ -14,10 +14,13 @@ public class Cinco {
 	public static void main(String[] args) {
 
 		Scanner leer = new Scanner(System.in);
-		String cadenaUno;
+		String cadena;
 
 		System.out.println("Introduce una cadena");
-		cadenaUno = leer.nextLine();
-
+		cadena = leer.nextLine();
+		 
+		//JOSE LO TIENE HECHO EN EL 13.1 ARRIBA
+		
+		
 	}
 }
