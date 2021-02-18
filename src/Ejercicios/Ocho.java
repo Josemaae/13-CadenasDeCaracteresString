@@ -12,7 +12,7 @@ public class Ocho {
 		
 		String cadenaString="no por mucho madrugar se hace solo el cafe"+
 		 "a menos que tengas una cafetera automatica ";
-		char cadena='p';
+		char cadena='o';
 		int posicion = 0;
 		do {
 			posicion=cadenaString.lastIndexOf(cadena, posicion);
